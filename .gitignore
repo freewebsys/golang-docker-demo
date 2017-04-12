@@ -1,0 +1,11 @@
+
+.idea
+*.iml
+.DS_Store
+*.zip
+*.log
+doc
+bin
+pkg
+go-admin
+go-admin.db
