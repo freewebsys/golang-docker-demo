@@ -1,4 +1,4 @@
-FROM       docker pull hub.c.163.com/library/golang:latest
+FROM    hub.c.163.com/library/golang:latest
 MAINTAINER demo <juest a demo>
 
 RUN apk add --update curl bash && \
